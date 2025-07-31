@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @vivekgiri989
-- 👀 I’m interested in html and java script
-- 🌱 I’m currently learning html
+- 👀 I’m interested in AI & Ml or software development
+-    Because i am learning python or java (Basic to Advance)
+- 🌱 I’m currently in collage second year
 - 💞️ I’m looking to collaborate with many developers
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
